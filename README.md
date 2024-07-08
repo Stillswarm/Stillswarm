@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Programming and Theoretical Computer Science
 - 🌱 I’m currently learning Kotlin for Android Development
 - 💞️ I’m looking to collaborate on creating exciting new Android Apps
-- 📫 Reach out to me via my email
+- 📫 Reach out to me via my email @abhi555sri@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
